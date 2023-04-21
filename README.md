@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: I'm novice Russian developer. 
 🔭 I'm currently work on Website "Port-Keeper" that works on Flask<br><br>🌱 I’m currently learning Flask, SQL, Flask-restful<br>
 
 
